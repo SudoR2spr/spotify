@@ -1,6 +1,8 @@
 # Spotify
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
-![SudoR2Spr Spotify](https://github.com/SudoR2spr/spotify/assets/121882568/3e050e70-30ea-4d1c-bec0-d52ebe610b02)
+
+<!-- GIF HEADER -->
+<img src="https://github.com/SudoR2spr/SudoR2spr/blob/main/assets/SudoR2Spr%20Spotify.png">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 ## Overview
