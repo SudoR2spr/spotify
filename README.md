@@ -1,5 +1,5 @@
-# spotify
-
+# Spotify
+![SudoR2Spr Spotify](https://github.com/SudoR2spr/spotify/assets/121882568/3e050e70-30ea-4d1c-bec0-d52ebe610b02)
 
 ## Overview
 This web application allows users to download Spotify songs by pasting the song URL.
